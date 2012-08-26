@@ -1,0 +1,7 @@
+dmBehaviors:
+  dmNivoSliderBehavior:
+    section: Media Gallery
+    name: Nivo Slider
+    form: dmNivoSliderBehaviorForm
+    view: dmNivoSliderBehaviorView
+

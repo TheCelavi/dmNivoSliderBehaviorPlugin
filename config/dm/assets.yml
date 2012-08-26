@@ -1,0 +1,9 @@
+js:
+  dmNivoSliderBehaviorPlugin:
+    launch:         dmNivoSliderBehavior
+    nivo:           jquery.nivo.slider.pack.min
+  
+css:
+  dmNivoSliderBehaviorPlugin:
+    nivo:           nivo-slider
+    default:        default/default
